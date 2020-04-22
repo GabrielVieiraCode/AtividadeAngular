@@ -1,0 +1,12 @@
+.foto-perfil{
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+.corFundo{
+    background-color: #F5FFFA;
+}
+.corProjeto{
+    background-color :#87CEFA;
+}
